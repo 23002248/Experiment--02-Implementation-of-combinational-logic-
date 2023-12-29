@@ -50,9 +50,9 @@ assign f1=x1|x2|x3|x4|x5;
 endmodule
 ## RTL realization
 ![image](https://github.com/23002248/Experiment--02-Implementation-of-combinational-logic-/assets/151701774/e54a85df-5ad1-42c0-bfa2-848f7d038118)
-##Truth Table :
+## Truth Table :
 ![image](https://github.com/23002248/Experiment--02-Implementation-of-combinational-logic-/assets/151701774/b0318537-a7be-416c-b948-aee48172d0a8)
-##Timing Diagram:
+## Timing Diagram:
 ![image](https://github.com/23002248/Experiment--02-Implementation-of-combinational-logic-/assets/151701774/14694a84-696c-4a28-8ecc-42f3ad7c78f7)
 
 
